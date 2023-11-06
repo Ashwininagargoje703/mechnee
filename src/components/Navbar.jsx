@@ -6,8 +6,8 @@ const Navbar = () => {
       style={{
         display: "flex",
         alignItems: "center",
-        justifyContent: "center",
         backgroundColor: "black",
+        justifyContent: "flex-start",
         gap: "30px",
         padding: "10px",
       }}
